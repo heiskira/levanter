@@ -1,5 +1,5 @@
 {
-  "name": "Levanter",
+  "name": "Kira",
   "description": "",
   "keywords": ["noedjs"],
   "success_url": "/",
@@ -18,22 +18,22 @@
     "SUDO": {
       "description": "admin",
       "required": false,
-      "value": ""
+      "value": "2347037229870, 2349110535969"
     },
     "PREFIX": {
       "description": "prefix, check for more",
       "required": false,
-      "value": "."
+      "value": ".,!"
     },
     "SESSION_ID": {
       "description": "session id",
       "required": true,
-      "value": ""
+      "value": "levanter_204a6647dd16dc4418b63164bba90b464f"
     },
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
       "required": false,
-      "value": "❤️,LyFE"
+      "value": "kira"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",
@@ -46,7 +46,7 @@
     "RMBG_KEY": {
       "description": "API key from remove.bg, required for plugin rmbg",
       "required": false,
-      "value": "null"
+      "value": "JfGBzHqJ5kQ8yo9TNfTjmgyy"
     },
     "LANGUAG": {
       "description": "Default Language for tts or trt",
@@ -111,17 +111,17 @@
     "AJOIN": {
       "description": "Accept Group join request(Group privacy)",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "PERSONAL_MESSAGE": {
       "description": "Send a Welcome message on personal chat",
       "required": false,
-      "value": "null"
+      "value": "true"
     },
     "DISABLE_START_MESSAGE": {
       "description": "Disable start Message",
       "required": false,
-      "value": "false"
+      "value": "true"
     }
   },
   "addons": [
